@@ -1,7 +1,7 @@
 # Avionic-MSE
-*MSE experimental rocket avionic (On-board electronics) created by Paul Miailhe, Version 2023 launched at C'space*
+*MSE experimental rocket avionic (On-board electronics), Version 2023 launched at C'space*
 
-*CC BY-NC-SA 4.0*
+*CC BY-NC-SA 4.0, Copyright 2023 Miailhe Paul, all rights reserved*
 
 ![alt tag](https://github.com/axpaul/Avionic-MSE/blob/main/Image/Publication%20MSE.png)
 
@@ -56,7 +56,7 @@ Le LM340AT est un régulateur de tension qui assure une alimentation stable pour
 
 ### 1210L110/16WR Littelfuse PTC
 
-Le 1210L110/16WR est un fusible réarmable PTC (Positive Temperature Coefficient) qui offre une protection efficace contre les surintensités dans votre circuit. Contrairement
+Le 1210L110/16WR est un fusible réarmable PTC (Positive Temperature Coefficient) qui offre une protection efficace contre les surintensités dans votre circuit. 
 
 ## Driver
 
@@ -74,7 +74,17 @@ Le 74HC14D,653 est une porte logique inverseuse avec des entrées de type Schmit
 
 En transformant des signaux d'entrée analogiques ou numériques en signaux de sortie numériques standardisés, le 74HC14D,653 permet de nettoyer les signaux bruités. C'est une caractéristique essentielle pour garantir un fonctionnement sûr et efficace du système de récupération de notre fusée.
 
+### Synoptic
 
+Le schéma synotique du projet avionique :
+![alt text](https://github.com/axpaul/Avionic-MSE/blob/main/Image/Sypnotique%20MSE.png)
+
+### Pinout séquenceur & sensor :
+
+![alt text](https://github.com/axpaul/Avionic-MSE/blob/main/Image/MSE%20SEQ%20PINOUT.png)
+![alt text](https://github.com/axpaul/Avionic-MSE/blob/main/Image/MSE%20SENSOR%20PINOUT.png)
+
+### Tableau des cartes :
 
 | 3D | Routing  | Description |
 |:---:|:---:|:---:|
